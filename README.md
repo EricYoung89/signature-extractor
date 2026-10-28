@@ -18,7 +18,7 @@
 
 ## 使用
 
-到 [Releases](../../releases) 下载 `签名提取工具.exe`，双击运行即可，无需安装 Python。
+到 [Releases](../../releases) 下载 `SignatureExtractor-*-win64.exe`（Windows 64 位），双击运行即可，无需安装 Python。可以自行改名为「签名提取工具.exe」。
 
 1. 点「添加图片」或「添加文件夹」，也可以把图片/文件夹直接拖到 exe 图标上打开
 2. 在列表中点击图片可预览：上方红框为识别到的签名区域，下方为提取结果
